@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "id": "7c26",
+      "name": "siva",
+      "age": "16",
+      "email": "siva@gmail.com"
+    },
+    {
+      "id": "00ac",
+      "name": "selci",
+      "age": "16",
+      "email": "selci216@gmail.com"
+    },
+    {
+      "id": "2169",
+      "name": "sorna",
+      "age": "19",
+      "email": "sorna@gmail.com"
+    },
+    {
+      "name": "nithya K",
+      "age": "20",
+      "email": "nithya@gmail.com",
+      "id": "4c92"
+    }
+  ]
+}
